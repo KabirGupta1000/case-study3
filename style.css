@@ -1,0 +1,17 @@
+#Testt_img1{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.text_images_and_results{
+    color: aqua;
+}
+ol {
+    width: 300px;
+    background-color: pink;
+    border-radius: 10px;
+    box-shadow: 5px 5px 18px rgb(189, 187, 187);
+}
+#heading_nice{
+    text-align: center;
+}
